@@ -21,6 +21,11 @@ This app gets latest Trending Hd Wallpapers. Api used for this project is Pexels
 </br>
 
 
+## Download App
+[Click here to download the apk](https://drive.google.com/file/d/1GfOgFOXXpERTTkNoQispeSr19gWLFhH6/view?usp=sharing) 
+
+
+
 ## Screenshots
 
 
