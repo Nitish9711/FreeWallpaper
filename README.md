@@ -1,17 +1,56 @@
-# FreeWallpaper
+# **LatestNews** 
+#### *An App to get Trending Free Hd Wallpapers For Mobile*  
+   
 
-A new Flutter project.
 
-## Getting Started
+## Table of Contents
+- [**LatestNews**](#latestnews)
+     
+  - [Table of Contents](#table-of-contents)
+  - [Download App](#down)
+  - [About](#about)
+  - [ScreenShots](#screenshots)
+  - [Installation Prerequisites](#installation-prerequisites)
+  - [How to Run this Project](#how-to-run-this-project)
+     
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# FreeWallpaper
+## Download App
+[Click here to download the apk](https://drive.google.com/file/d/1yKEMFvd9vUgt45l6lb5oyuTKKWxeR5St/view?usp=sharing) 
+
+
+
+## About
+This app gets latest Trending Hd Wallpapers. Api used for this project is Pexels ( [API Link](https://www.pexels.com/api/)). This app has different sections for different categories of news like Wildlife, Nature, City, etc.
+ 
+</br>
+
+
+## Screenshots
+
+
+Home Screen             |  News
+:-------------------------:|:-------------------------:
+![](assets/screenshots/1.jpg)  |  ![](assets/screenshots/2.jpg)
+
+</br>
+
+
+## Installation Prerequisites
+- Flutter Setup
+>To Setup Flutter [Click this Link and follw the setups given](https://flutter.dev/docs/get-started/install).
+
+</br>
+
+---
+
+## How to Run this Project
+1. Clone this Repo to your Local Machine.
+2. Setup the Flutter and follow the steps given in this. [Link](https://flutter.dev/docs/get-started/install)
+3. Open The Terminal/CMD in the folder latestNews.
+4. Open Android Studio and create an Android emulator.
+5. Type ```Flutter run ``` in the terminal to run the App in emulator.
+
+
