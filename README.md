@@ -15,13 +15,6 @@
      
 
 
-
-
-## Download App
-[Click here to download the apk](https://drive.google.com/file/d/1yKEMFvd9vUgt45l6lb5oyuTKKWxeR5St/view?usp=sharing) 
-
-
-
 ## About
 This app gets latest Trending Hd Wallpapers. Api used for this project is Pexels ( [API Link](https://www.pexels.com/api/)). This app has different sections for different categories of news like Wildlife, Nature, City, etc.
  
